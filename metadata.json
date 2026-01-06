@@ -1,0 +1,7 @@
+{
+  "name": "Faheem AI - Amr AI Systems",
+  "description": "منصة تعليمية ذكية تعتمد على دمج محركات Gemini و DeepSeek و GPT لتقديم حلول تعليمية دقيقة مع نظام تعلم تكيفي.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
